@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+dataset/bandgap_5classes_4.h5
+dataset/bandgap_values.h5
+dataset/mf1-tm-32k.h5
+experiment_results/*
